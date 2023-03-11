@@ -1,4 +1,4 @@
-# studying_Git
+# studying_Git 📚
 
 1. 깃에서 description 바꾸기, 수정하기
 2. 깃 저장소주소, repository 변경하기, 수정하기
