@@ -1,6 +1,6 @@
-#VS CODE에서 깃 자동로그인 변경하기
-#VS CODE에서 깃 로그아웃하고 로그인 새로하기
-#에러 You do not have permission to push to on Github. Would you like to create a fork and push to it instead
+# VS CODE에서 깃 자동로그인 변경하기
+# VS CODE에서 깃 로그아웃하고 로그인 새로하기
+# 에러 You do not have permission to push to on Github. Would you like to create a fork and push to it instead
 
 stackoverflow에 보면
 - In VScode sign out by clicking on the person icon on the left down on the screen and close VScode.
