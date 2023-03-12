@@ -17,19 +17,19 @@ stackoverflow에 보면
 6. 설정 동기화 맨 윗창에 Github로 로그인을 누른다.
 7. 새롭게 로그인하려는 계정을 웹에서 입력하고 동기화 누른다.
 8. 터미널 창에서 우선 현재 기존에 연결되어 있는 깃 계정이 무엇인지 확인한다.
-'''
+```
 git config --list
-'''
+```
 9. 그럼 여기서 user.name과 user.email을 살펴본다. 나올 때까지 엔터를 친다. 확인하였으면 q를 누른다.
 10. 바꾸고픈 계정으로 다시 수정한다.
-'''
+```
 git config --global user.name "닉네임"
 git config --global user.email "이메일"
-'''
+```
 11. 다시 현재 기존 연결되어 있는게 맞게 연결되어 있는지 확인한다.
-'''
+```
 git config --list
-'''
+```
 
 
 -Contrl Panel == 제어판
@@ -37,5 +37,5 @@ git config --list
 -Generic Credentials == 일반 자격 증명
 
 ##참고링크
-<https://stackoverflow.com/questions/68080637/you-do-not-have-permission-to-push-to-on-github-would-you-like-to-create-a-fork>
+<https://stackoverflow.com/questions/68080637/you-do-not-have-permission-to-push-to-on-github-would-you-like-to-create-a-fork>    
 <http://conanoc.egloos.com/6345602>
