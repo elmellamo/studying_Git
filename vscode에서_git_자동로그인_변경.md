@@ -32,10 +32,10 @@ git config --list
 ```
 
 
--Contrl Panel == 제어판
--Credential Manager == 자격증명관리자
--Generic Credentials == 일반 자격 증명
+- Contrl Panel == 제어판
+- Credential Manager == 자격증명관리자
+- Generic Credentials == 일반 자격 증명
 
-##참고링크
+* 참고링크     
 <https://stackoverflow.com/questions/68080637/you-do-not-have-permission-to-push-to-on-github-would-you-like-to-create-a-fork>    
 <http://conanoc.egloos.com/6345602>
