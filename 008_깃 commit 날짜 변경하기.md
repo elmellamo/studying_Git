@@ -10,9 +10,9 @@ git rebase --continue
 git push -f origin master
 ```
 
-![image](https://user-images.githubusercontent.com/90952132/225848392-65467d6a-599f-4b10-9b36-ac6fdd733cba.png){: width="300" height="300"}
-![image](https://user-images.githubusercontent.com/90952132/225848452-c499ab60-d7a0-4de5-b28f-e6b77275ceb7.png){: width="300" height="300"}
-![image](https://user-images.githubusercontent.com/90952132/225848465-0c0830be-5b05-4ebf-b116-b0425965840f.png){: width="300" height="300"}
+![image](https://user-images.githubusercontent.com/90952132/225848392-65467d6a-599f-4b10-9b36-ac6fdd733cba.png)
+![image](https://user-images.githubusercontent.com/90952132/225848452-c499ab60-d7a0-4de5-b28f-e6b77275ceb7.png)
+![image](https://user-images.githubusercontent.com/90952132/225848465-0c0830be-5b05-4ebf-b116-b0425965840f.png)
 
 
 ---
