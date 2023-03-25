@@ -4,7 +4,7 @@
 1. 깃 bash 열기
 2. 아래 코드 쓰기
 ```
-git config --amend --no-edit --date "$(date)"
+git commit --amend --no-edit --date "$(date)"
 git commit --amend --no-edit --date "Thur 16 Mar 2023 20:19:19 KST"
 git rebase --continue
 git push -f origin master
