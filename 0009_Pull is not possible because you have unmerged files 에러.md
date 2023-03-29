@@ -21,7 +21,7 @@
 ```
 ![image](https://user-images.githubusercontent.com/90952132/228546561-fea8d76a-44c3-4ac0-85aa-ada8aa7eeaa6.png)
 
-이렇게 하면 vscode 소스제어에서 커밋 칸에 **'변경내용 동기화'**라고 뜨게 된다.
+이렇게 하면 vscode 소스제어에서 커밋 칸에 **'변경내용 동기화'** 라고 뜨게 된다.
 이후, 원래대로 깃에서 merge를 하려고 하면 성공적으로 업로드!
 
 ![image](https://user-images.githubusercontent.com/90952132/228547273-b051345a-7e29-4f1f-a713-ae6024a97ea9.png)
