@@ -8,3 +8,4 @@
 6. src_refspec_master_does_not_match_에러 
 7. 깃허브에서 마크다운 작성하기!
 8. 깃 commit 날짜 변경하기
+9. Pull is not possible because you have unmerged files 에러
